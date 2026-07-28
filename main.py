@@ -1,3 +1,4 @@
+#usecase
 from KingdomProject import Character, Warrior, Mage, Paladin, Building, GuardTower
 my_character = Character("Ayesha")
 my_character.introduce()
