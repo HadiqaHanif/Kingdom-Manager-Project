@@ -1,5 +1,6 @@
 import os
 os.system ("cls")
+#Parent Class
 class Character:
     def __init__(self, name, health = 100):
         self.name = name
