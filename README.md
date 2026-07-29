@@ -67,14 +67,6 @@ kingdom-manager/
 └── README.md           # This file
 ```
 
-## How to run
-
-```bash
-python main.py
-```
-
-`main.py` creates one instance of every class and calls every method at least once, so you can see the full class hierarchy in action.
-
 ## Sample output
 
 ```
