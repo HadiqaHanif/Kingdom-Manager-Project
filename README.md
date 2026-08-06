@@ -6,7 +6,7 @@ A small Python project built to practice **Object-Oriented Programming (OOP)** �
 
 This project demonstrates four core inheritance concepts in Python:
 
-- **Single inheritance** — `Warrior` and `Mage` both inherit from `Character`
+- **Single inheritance** — `Warrior` and `Mage` both inherit from `Character`.
 - **Multi-level inheritance** — `Paladin` inherits from `Warrior`, which inherits from `Character` (a three-level chain)
 - **Multiple inheritance** — `GuardTower` inherits from both `Warrior` and `Building` at the same time
 - **Method overriding** and **constructor chaining** using `super()` and direct parent calls
