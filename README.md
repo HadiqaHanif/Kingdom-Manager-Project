@@ -2,7 +2,7 @@
 
 A small Python project built to practice **Object-Oriented Programming (OOP)** — specifically **inheritance** — using a fantasy kingdom theme. It models different types of characters and structures in a kingdom, all built on top of a shared class hierarchy.
 
-## Overview
+## Project Overview
 
 This project demonstrates four core inheritance concepts in Python:
 
